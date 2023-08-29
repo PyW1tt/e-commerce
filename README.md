@@ -8,6 +8,5 @@ responsive moblie
 
 use react,tailwind,javascript to meade
 
-can add porducts to cart,search product,confirm orders,delet products,view product by id
 
 
