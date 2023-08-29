@@ -8,6 +8,6 @@ E-commerce Website
 
 -use react,tailwind,javascript
 
--can add porducts to cart,search product,confirm orders,delet products
+-can add porducts to cart,search product,confirm orders,delet products,view product by id
 
 
