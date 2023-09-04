@@ -6,7 +6,7 @@ responsive moblie
 
 ![image](https://github.com/PyW1tt/e-commerce/assets/136727247/bd5d204d-b79e-4a53-bea1-ad751f04c713)
 
-use react,tailwind,javascript to meade
+use react,tailwind,javascript to made
 
 
 
